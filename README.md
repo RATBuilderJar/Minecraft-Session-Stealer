@@ -1,3 +1,4 @@
+# https://discord.gg/Vx2HfVhzK8
 # MC-Session-Stealer
 #### Simple Session-Token stealer written as a forge mod for Minecraft 1.8.9
 
